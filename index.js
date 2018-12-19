@@ -1,7 +1,4 @@
-//
-// function diceRoll(){
-//
-// }
+
 
 let button = document.querySelector('.roll-button').addEventListener('click', function(){
   let randomNumber1 = Math.floor((Math.random() * 6) + 1);
