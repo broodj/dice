@@ -1,0 +1,19 @@
+/* Selectors */
+
+body {
+  margin: 0 auto;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
+/* Classes */
+
+.title {
+  font-size: 3rem;
+  padding: 1.5rem 3rem;
+}
+
+.dice {
+  width:25%;
+  height:25%;
+}
