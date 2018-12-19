@@ -2,8 +2,15 @@
 
 body {
   margin: 0 auto;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   text-align: center;
+  background-color: #393e46;
+  color: #eee;
+}
+
+p {
+  letter-spacing: 0.1rem;
+  font-weight:100;
 }
 
 /* Classes */
@@ -11,6 +18,13 @@ body {
 .title {
   font-size: 3rem;
   padding: 1.5rem 3rem;
+  letter-spacing: 0.2rem;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+
+.dice-board {
+  align-items: center;
 }
 
 .dice {
