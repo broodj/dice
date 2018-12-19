@@ -10,7 +10,7 @@ body {
 
 p {
   letter-spacing: 0.1rem;
-  font-weight:100;
+  /* font-weight:100; */
 }
 
 /* Classes */
@@ -20,11 +20,11 @@ p {
   padding: 1.5rem 3rem;
   letter-spacing: 0.2rem;
   font-family: 'Roboto', sans-serif;
-  font-weight: bold;
 }
 
 .dice-board {
   align-items: center;
+  margin-top: 3rem;
 }
 
 .dice {
